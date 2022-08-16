@@ -37,6 +37,9 @@ html * {
   box-sizing: border-box;
 }
 
+.opacity{
+	opacity: 0.5;
+}
 /*-----------------------------
 1. primary css
 ------------------------------*/
