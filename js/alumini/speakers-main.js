@@ -14,7 +14,7 @@ $(document).ready(function() {
 // it will automatically generate it
 arrPresent.push({
     name: "Anil Krishna Yadav",
-    pic: "images/Alumini/anil_yadav.jpg",
+    pic: "images/Alumini/anil_prabhu.jpg",
     who1: "Machine Learning engineer",
     who2: "Finarb consulting, New Town, Kolkata",
     who3: "BS, CHM (2018-22)",
@@ -23,7 +23,7 @@ arrPresent.push({
     gradyr: 2022
 },{
     name: "Prakash Kumar Singh",
-    pic: "images/Alumini/prakash_singh.jpg",
+    pic: "images/Alumini/prakash_prabhu.jpg",
     who1: "Physics Teacher",
     who2: "Shri Sandipani Academy",
     who3: "M.Tech, ME (2020-2022)",
