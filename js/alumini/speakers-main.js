@@ -13,6 +13,25 @@ $(document).ready(function() {
 //and keep the element id as NULL
 // it will automatically generate it
 arrPresent.push({
+    name: "Anil Krishna Yadav",
+    pic: "images/Alumini/anil_yadav.jpg",
+    who1: "Machine Learning engineer",
+    who2: "Finarb consulting, New Town, Kolkata",
+    who3: "BS, CHM (2018-22)",
+    about: "Anil Krishna Yadav did his Btech. in the department of Chemistry at IIT Kanpur from 2018-22. After graduation he is working as a Machine Learning Engineer at Finarb Consulting Pvt. Ltd. in kolkata. During his stay at IIT Kanpur, he was an active member of BVC. He was expert in sweet kirtan, cooking , maintaining vaishanva standards and preaching",
+    id: "",
+    gradyr: 2022
+},{
+    name: "Prakash Kumar Singh",
+    pic: "images/Alumini/prakash_singh.jpg",
+    who1: "Physics Teacher",
+    who2: "Shri Sandipani Academy",
+    who3: "M.Tech, ME (2020-2022)",
+    about: "Prakash Kr Singh did his B-Tech in department of Mechanical Engineering at NIT Silchar from 2013-17. He then came to IIT Kanpur for masters in Manufacturing Science and  worked on some interesting projects at MedTech, IIT Kanpur. He is currently a Physics teacher at Shri Sandipani academy, near Pune. He was inspired by the teachings of Bhagavad Gita during early days of his undergraduate study and was actively connected with BVC during his postgraduate at IITK. Apart from guiding students academically, he likes to give guidance for their spiritual well being.",
+    id: "",
+    gradyr: 2022
+},
+    {
     name: "Dr. Jayant Mohanta",
     pic: "images/Alumini/jayantamohanta.jpg",
     who1: "Assistant Professor,",
