@@ -47,6 +47,23 @@
     <link href="assets/css/responsive.css" rel="stylesheet">
 
     <script src="assets/js/vendor/modernizr-2.8.3.min.js"></script>
+    <style>
+        .img-wrapper {
+            width: 100%;
+            height: auto;
+            overflow: hidden;
+            border-radius: 50%; /* Makes it circular */
+            border: 5px solid #fff; /* Optional: adds a white border */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: adds a shadow */
+        }
+        
+        .img-wrapper img {
+            width: 100%; /* Ensures the image covers the circular div */
+            height: auto; /* Maintains aspect ratio */
+            display: block;
+        }
+        
+    </style>
     <!--[if lt IE 9]>
         <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
         <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
